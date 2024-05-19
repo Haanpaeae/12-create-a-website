@@ -1,2 +1,2 @@
-# 12-create-a-website
+# sahkoautojen-lataus
 This is an assignment for the Website Development course.
